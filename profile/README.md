@@ -34,7 +34,12 @@ Whether you're looking to automate your infrastructure, improve security, or opt
 
 💬 **Join the Discussion** – Engage with fellow homelab enthusiasts and share your expertise.
 
+## 💙 **Support the Work**
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/homelab0)
+
 ---
 📢 "Making homelabs more accessible, efficient, and secure for everyone." 🌍
 
 📌 homelab.0 – Advancing home infrastructure through open collaboration. 🏠
+
