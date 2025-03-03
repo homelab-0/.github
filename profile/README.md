@@ -1,7 +1,9 @@
 # 🌍 homelab.0 – A Hub for Homelab Enthusiasts
 
-Welcome to homelab.0! 
-This organization is dedicated to sharing high-quality homelab projects, configurations, and technical resources with the community. 
+Welcome to homelab.0!
+
+This organization is dedicated to sharing high-quality homelab projects, configurations, and technical resources with the community.
+
 Whether you're looking to automate your infrastructure, improve security, or optimize performance, you'll find valuable insights and open-source solutions here.
 
 ## 🚀 What We Do
