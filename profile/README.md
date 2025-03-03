@@ -34,7 +34,7 @@ Whether you're looking to automate your infrastructure, improve security, or opt
 
 💬 **Join the Discussion** – Engage with fellow homelab enthusiasts and share your expertise.
 
-
+---
 📢 "Making homelabs more accessible, efficient, and secure for everyone." 🌍
 
 📌 homelab.0 – Advancing home infrastructure through open collaboration. 🏠
