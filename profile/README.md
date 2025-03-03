@@ -36,7 +36,7 @@ Whether you're looking to automate your infrastructure, improve security, or opt
 
 ## 💙 **Support the Work**
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/homelab0)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E31B8KUN)
 
 ---
 📢 "Making homelabs more accessible, efficient, and secure for everyone." 🌍
